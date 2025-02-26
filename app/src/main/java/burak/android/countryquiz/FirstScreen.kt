@@ -57,7 +57,7 @@ fun FirstScreen(navController: NavController) {
             Card(
                 colors = CardDefaults.cardColors(containerColor = Color.Cyan),
                 modifier = Modifier.fillMaxWidth(1f).aspectRatio(1.75f).heightIn(max = 160.dp).clickable {
-                    navController.navigate("capitalquiz")
+                    navController.navigate("capital_difficulty_options")
                 }
             ) {
                 Box(
@@ -83,7 +83,7 @@ fun FirstScreen(navController: NavController) {
             Card(
                 colors = CardDefaults.cardColors(containerColor = Color.Magenta),
                 modifier = Modifier.fillMaxWidth(1f).aspectRatio(1.75f).clickable {
-                        navController.navigate("flagquiz")
+                        navController.navigate("flag_difficulty_options")
                     }
             ) {
                 Box(

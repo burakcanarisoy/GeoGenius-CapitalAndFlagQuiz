@@ -14,4 +14,7 @@ class FlagCounterViewModel: ViewModel() {
     fun flagCorrectCounterReset(){
         _flagCounter.intValue = 0
     }
+    fun setFlagCount(count: Int){
+        _flagCounter.intValue = 0
+    }
 }

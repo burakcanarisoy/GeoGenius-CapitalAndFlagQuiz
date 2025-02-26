@@ -21,7 +21,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -57,7 +58,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -81,7 +83,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -105,7 +108,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -129,7 +133,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -153,7 +158,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -177,7 +183,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -201,7 +208,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -225,7 +233,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -249,7 +258,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -273,7 +283,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -297,7 +308,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -321,7 +333,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -349,7 +362,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -373,7 +387,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -401,7 +416,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -455,9 +471,9 @@
       }
     },
     "capital": [
-      "Pretoria",
+      "Cape Town",
       "Bloemfontein",
-      "Cape Town"
+      "Pretoria"
     ],
     "flag": "🇿🇦",
     "flags": {
@@ -467,7 +483,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -491,7 +508,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -515,7 +533,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -539,7 +558,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -563,7 +583,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -587,7 +608,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -611,7 +633,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -635,7 +658,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -659,7 +683,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -687,7 +712,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -711,7 +737,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -735,7 +762,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -763,7 +791,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -787,7 +816,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -819,7 +849,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -855,7 +886,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -880,7 +912,8 @@
     "continents": [
       "Europe",
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -912,7 +945,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -936,7 +970,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -960,7 +995,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -988,7 +1024,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1012,7 +1049,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1040,7 +1078,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1065,7 +1104,8 @@
     "continents": [
       "Europe",
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1093,7 +1133,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1117,7 +1158,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1149,7 +1191,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1173,7 +1216,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1197,7 +1241,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1221,7 +1266,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1249,7 +1295,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1273,7 +1320,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1297,7 +1345,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1325,7 +1374,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1357,7 +1407,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1381,7 +1432,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1405,7 +1457,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1429,7 +1482,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1457,7 +1511,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1481,7 +1536,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1509,7 +1565,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1537,7 +1594,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1569,7 +1627,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1593,7 +1652,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1617,7 +1677,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1645,7 +1706,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1677,7 +1739,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1701,7 +1764,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1725,7 +1789,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1753,7 +1818,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1781,7 +1847,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1805,7 +1872,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1829,7 +1897,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1885,7 +1954,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -1909,7 +1979,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1933,7 +2004,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -1957,7 +2029,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -1981,7 +2054,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2013,7 +2087,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2037,7 +2112,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2061,7 +2137,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2089,7 +2166,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2114,7 +2192,8 @@
     "continents": [
       "Europe",
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2142,7 +2221,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2166,7 +2246,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2194,7 +2275,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2222,7 +2304,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2250,7 +2333,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2274,7 +2358,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2306,7 +2391,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2330,7 +2416,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2354,7 +2441,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2378,7 +2466,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2402,7 +2491,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2426,7 +2516,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2454,7 +2545,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2482,7 +2574,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2506,7 +2599,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2538,7 +2632,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2566,7 +2661,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2594,7 +2690,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2618,7 +2715,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2642,7 +2740,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2666,7 +2765,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2690,7 +2790,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2718,7 +2819,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2746,7 +2848,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2770,7 +2873,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2802,7 +2906,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2826,7 +2931,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2854,7 +2960,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2878,7 +2985,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2906,7 +3014,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -2934,7 +3043,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -2958,7 +3068,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -2986,7 +3097,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3010,7 +3122,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3034,7 +3147,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3058,7 +3172,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3098,7 +3213,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3126,7 +3242,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3154,7 +3271,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3186,7 +3304,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3210,7 +3329,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3238,7 +3358,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3270,7 +3391,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3294,7 +3416,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3318,7 +3441,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3342,7 +3466,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3366,7 +3491,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3394,7 +3520,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3418,7 +3545,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3442,7 +3570,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3470,7 +3599,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3494,7 +3624,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3518,7 +3649,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3546,7 +3678,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3570,7 +3703,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3594,7 +3728,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3618,7 +3753,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3646,7 +3782,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3678,7 +3815,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3706,7 +3844,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3730,7 +3869,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3762,7 +3902,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3790,7 +3931,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3814,7 +3956,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3838,7 +3981,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3862,7 +4006,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3886,7 +4031,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -3910,7 +4056,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3934,7 +4081,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -3962,7 +4110,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -3986,7 +4135,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4010,7 +4160,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4034,7 +4185,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4062,7 +4214,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4086,7 +4239,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -4122,7 +4276,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4146,7 +4301,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4170,7 +4326,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -4194,7 +4351,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4226,7 +4384,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4250,7 +4409,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4274,7 +4434,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4302,7 +4463,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4330,7 +4492,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4354,7 +4517,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4378,7 +4542,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4402,7 +4567,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4426,7 +4592,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4450,7 +4617,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4474,7 +4642,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4498,7 +4667,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4522,7 +4692,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4546,7 +4717,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -4570,7 +4742,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -4602,7 +4775,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4626,7 +4800,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4650,7 +4825,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4674,7 +4850,8 @@
     },
     "continents": [
       "South America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4698,7 +4875,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4726,7 +4904,8 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -4750,7 +4929,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -4774,7 +4954,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4806,7 +4987,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4834,7 +5016,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4862,7 +5045,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4886,7 +5070,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4914,7 +5099,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -4994,7 +5180,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -5018,7 +5205,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -5042,7 +5230,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -5074,7 +5263,8 @@
     },
     "continents": [
       "Africa"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -5106,7 +5296,8 @@
     },
     "continents": [
       "Europe"
-    ]
+    ],
+    "difficulty" : "hard"
   },
   {
     "name": {
@@ -5134,7 +5325,8 @@
     },
     "continents": [
       "Asia"
-    ]
+    ],
+    "difficulty" : "easy"
   },
   {
     "name": {
@@ -5166,7 +5358,8 @@
     },
     "continents": [
       "Oceania"
-    ]
+    ],
+    "difficulty" : "medium"
   },
   {
     "name": {
@@ -5190,6 +5383,7 @@
     },
     "continents": [
       "North America"
-    ]
+    ],
+    "difficulty" : "hard"
   }
 ]

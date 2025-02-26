@@ -7,14 +7,14 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
 
-class FlagViewModel(application: Application): AndroidViewModel(application) {
+class FlagViewModel(application: Application, private val flagCounterViewModel: FlagCounterViewModel): AndroidViewModel(application) {
 
     var countries = mutableStateOf<List<Country>>(emptyList())
     var currentQuestion = mutableStateOf<Country?>(null)
     var options = mutableStateOf<List<String>>(emptyList())
     @SuppressLint("MutableCollectionMutableState")
     private var askedFlags = mutableStateOf<MutableList<Country>>(mutableListOf())
-
+    var selectedDifficulty = mutableStateOf("all")
     init {
         loadCountries() // Load country list and create first questions when application started
     }
@@ -25,8 +25,15 @@ class FlagViewModel(application: Application): AndroidViewModel(application) {
             generateNewQuestion()
         }
     }
+    fun setDifficulty(difficulty: String){
+        selectedDifficulty.value = difficulty
+        resetQuestions()
+
+        val filteredCountries = getFilteredCountries()
+        flagCounterViewModel.setFlagCount(filteredCountries.size)
+    }
     fun generateNewQuestion(){
-        val countryList = countries.value
+        val countryList = getFilteredCountries()
         if (askedFlags.value.size == countryList.size){ // If all countries have been asked, reset
             askedFlags.value.clear()
         }
@@ -46,6 +53,14 @@ class FlagViewModel(application: Application): AndroidViewModel(application) {
             options.value = allOptions
         }else{
             resetQuestions()
+        }
+    }
+    fun getFilteredCountries(): List<Country>{
+        return when(selectedDifficulty.value){
+            "easy" -> countries.value.filter { it.difficulty == "easy" }
+            "medium" -> countries.value.filter { it.difficulty == "medium" }
+            "hard" -> countries.value.filter { it.difficulty == "hard" }
+            else -> countries.value
         }
     }
     fun resetQuestions(){

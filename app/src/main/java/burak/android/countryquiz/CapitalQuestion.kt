@@ -49,8 +49,9 @@ fun CapitalQuestion(viewModel: CapitalViewModel = viewModel(), navController: Na
     var selectedOption by remember { mutableStateOf<String?>(null) }
     var isCorrectAnswer by remember { mutableStateOf<Boolean?>(null) }
     var showDialog by remember { mutableStateOf(false) }
+    val totalQuestions = viewModel.getFilteredCountries().size
 
-    if (correctCounter == 194){
+    if (correctCounter == totalQuestions){
         viewModel.resetAtTheEnd()
         capitalCounterViewModel.capitalCorrectCounterReset()
         navController.navigate("capitalcongrats")
@@ -117,7 +118,7 @@ fun CapitalQuestion(viewModel: CapitalViewModel = viewModel(), navController: Na
                 }
             }
             Text(
-                text = "Correct :$correctCounter/194",
+                text = "Correct :$correctCounter/$totalQuestions",
                 fontFamily = FontFamily.Cursive,
                 fontSize = 48.sp,
                 fontWeight = FontWeight.ExtraBold,

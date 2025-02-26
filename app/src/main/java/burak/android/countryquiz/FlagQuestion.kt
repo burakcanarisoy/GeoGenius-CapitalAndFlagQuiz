@@ -53,8 +53,9 @@ fun FlagQuestion(
     var selectedOption by remember { mutableStateOf<String?>(null) }
     var isCorrectAnswer by remember { mutableStateOf<Boolean?>(null) }
     var showDialog by remember { mutableStateOf(false) }
+    val totalQuestions = viewModel.getFilteredCountries().size
 
-    if (correctCounter == 194) {
+    if (correctCounter == totalQuestions){
         viewModel.resetAtTheEnd()
         flagCounterViewModel.flagCorrectCounterReset()
         navController.navigate("flagcongrats")
@@ -134,7 +135,7 @@ fun FlagQuestion(
             }
 
             Text(
-                text = "Correct : $correctCounter/194",
+                text = "Correct : $correctCounter/$totalQuestions",
                 fontFamily = FontFamily.Cursive,
                 fontSize = 48.sp,
                 fontWeight = FontWeight.ExtraBold,

@@ -7,13 +7,14 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
 
-class CapitalViewModel(application: Application) : AndroidViewModel(application) {
+class CapitalViewModel(application: Application, private val capitalCounterViewModel: CapitalCounterViewModel) : AndroidViewModel(application) {
 
     var countries = mutableStateOf<List<Country>>(emptyList())
     var currentQuestion = mutableStateOf<Country?>(null)
     var options = mutableStateOf<List<String>>(emptyList())
     @SuppressLint("MutableCollectionMutableState")
     private var askedCountries = mutableStateOf<MutableList<Country>>(mutableListOf())
+    var selectedDifficulty = mutableStateOf("all")
 
     init {
         loadCountries()
@@ -25,8 +26,15 @@ class CapitalViewModel(application: Application) : AndroidViewModel(application)
             generateNewQuestion()
         }
     }
+    fun setDifficulty(difficulty: String){
+        selectedDifficulty.value = difficulty
+        resetQuestions()
+
+        val filteredCountries = getFilteredCountries()
+        capitalCounterViewModel.setFlagCount(filteredCountries.size)
+    }
     fun generateNewQuestion(){
-        val countryList = countries.value
+        val countryList = getFilteredCountries()
         if (askedCountries.value.size == countryList.size){ // If all countries have been asked, reset
             askedCountries.value.clear()
         }
@@ -44,6 +52,14 @@ class CapitalViewModel(application: Application) : AndroidViewModel(application)
             options.value = allOptions
         }else{
             resetQuestions()
+        }
+    }
+    fun getFilteredCountries(): List<Country>{
+        return when(selectedDifficulty.value){
+            "easy" -> countries.value.filter { it.difficulty == "easy" }
+            "medium" -> countries.value.filter { it.difficulty == "medium" }
+            "hard" -> countries.value.filter { it.difficulty == "hard" }
+            else -> countries.value
         }
     }
     fun resetQuestions(){

@@ -14,4 +14,7 @@ class CapitalCounterViewModel: ViewModel() {
     fun capitalCorrectCounterReset(){
         _capitalCounter.intValue = 0
     }
+    fun setFlagCount(count: Int){
+        _capitalCounter.intValue = 0
+    }
 }
